@@ -1,0 +1,12 @@
+{
+  "name": "firsthtml",
+  "version": "1.0.0",
+  "description": "my first server html",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ./website  -p 8080 -c-1"
+  },
+  "author": "J",
+  "license": "ISC",
+  "dependencies": {}
+}
